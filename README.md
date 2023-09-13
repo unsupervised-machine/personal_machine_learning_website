@@ -1,2 +1,8 @@
-# personal_machine_learning_website
-Going to upload various projects to show off what I can do with regards to machine learning and deep learning.
+Trained a neural net work words using Googles "Commands" data set (https://arxiv.org/abs/1804.03209) and then made an application to control a chacater using voice commands.
+
+Converted audio files into 2d images so convolution methods could be applied.
+Trained model to predict which word was being said
+Use trained model to classify input from microphone
+Use inputs to control character.
+
+[voice_recognition_project](voice_recognition_project/words_project_notebook.pdf)
