@@ -5,4 +5,5 @@ Trained model to predict which word was being said
 Use trained model to classify input from microphone
 Use inputs to control character.
 
-[voice_recognition_project](voice_recognition_project/words_project_notebook-1.png)
+[words_project_notebook.pdf](https://github.com/unsupervised-machine/voice_recognition_project/files/12597023/words_project_notebook.pdf)
+![words_project_notebook-1](https://github.com/unsupervised-machine/voice_recognition_project/assets/23567561/1f41a04b-6708-4cbc-b80f-dba751954b6b)
